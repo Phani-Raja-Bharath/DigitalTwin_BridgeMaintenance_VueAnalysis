@@ -1,5 +1,3 @@
-README – Bridge Traffic Simulation and Fatigue Monitoring
-
 PROJECT OVERVIEW:
 This project simulates realistic bridge traffic flow, monitors traffic congestion, and predicts bridge fatigue using a Hybrid Digital Twin approach.
 It integrates live traffic snapshots, Monte Carlo simulation, and machine learning predictions, all visualized through an interactive Streamlit dashboard.
